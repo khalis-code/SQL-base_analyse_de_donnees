@@ -1,0 +1,8 @@
+Importation de la base de données sakila dans Mysql Workbench 
+Cliquer :
+1- server (Data Import)
+2- Data from self contained files (sakila shema sql) - Dump structur only 
+3- Import (sakila data) - Dump Data only 
+
+
+
